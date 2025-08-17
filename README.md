@@ -16,7 +16,7 @@ It also includes useful resources, structured notebooks, and insights gathered w
 ├── 📁 models/              # Trained model files or checkpoints (if applicable)
 ├── 📁 utils/               # Helper functions & reusable scripts
 └── README.md               # You are here!
-
+```
 ## 🚀 Experiments Covered
 
 The repository covers a variety of AI/ML domains and topics, including but not limited to:
