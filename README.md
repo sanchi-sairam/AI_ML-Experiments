@@ -35,15 +35,14 @@ The repository covers a variety of AI/ML domains and topics, including but not l
 - Ready-to-use helper scripts for data preprocessing and visualization
 
 ## 🛠 Tech Stack
-Languages: Python 🐍
-Core Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-Deep Learning: TensorFlow / PyTorch
-Experimentation: Jupyter Notebook, Google Colab
-
+- Languages: Python 🐍
+- Core Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Deep Learning: TensorFlow / PyTorch
+- Experimentation: Jupyter Notebook, Google Colab
 
 
 ## 📬 Contact
 If you’re interested in discussing AI/ML, collaborating on projects, or just geeking out about experiments:
-Author: Sanchi Sairam
-Email: [sanchisairam@gmail.com](mailto:sanchisairam@gmail.com)
-LinkedIn: [LinkedIn](https://linkedin.com/in/sairam−sanchi)
+- Author: Sanchi Sairam
+- Email: [sanchisairam@gmail.com](mailto:sanchisairam@gmail.com)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sairam−sanchi)
